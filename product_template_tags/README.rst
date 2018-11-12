@@ -44,6 +44,7 @@ Contributors
 ------------
 
 * Benjamin Willig <benjamin.willig@acsone.eu>
+* Ignacio José Alés López <nachoaleslopez@gmail.com>
 
 Maintainer
 ----------
